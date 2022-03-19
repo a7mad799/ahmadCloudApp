@@ -1,1 +1,1 @@
-runtime: python39
+Flask==2.0.3
